@@ -1,0 +1,13 @@
+.imgcont {
+    height: 500px !important;
+}
+
+.imgSize {
+    width: 100% !important;
+    height: 500px !important;
+    object-fit: cover !important;
+}
+
+.fsize > i {
+    font-size: 100px;
+}
